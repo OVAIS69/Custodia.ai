@@ -1,0 +1,11 @@
+user_id,resource,action,timestamp
+U001,critical_db,read,2024-01-20T10:00:00Z
+U002,source_code,write,2024-01-20T10:05:00Z
+U001,critical_db,write,2024-01-20T10:10:00Z
+U003,hr_portal,read,2024-01-20T10:15:00Z
+U001,customer_data,export,2024-01-20T02:30:00Z
+U004,backup_server,delete,2024-01-20T03:00:00Z
+U002,source_code,read,2024-01-20T11:00:00Z
+U005,email_gateway,read,2024-01-20T11:05:00Z
+U001,critical_db,delete,2024-01-20T23:55:00Z
+U004,backup_server,read,2024-01-20T12:00:00Z
